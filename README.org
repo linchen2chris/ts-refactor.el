@@ -1,0 +1,7 @@
+* ts-refactor.el
+emacs refactor tool for typescript-mode
+
+** extract variablt to const 
+this is the first function for refactor, =tsr-extract-const=
+
+[[file:assets/extract-const.gif][extract-const]]
