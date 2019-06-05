@@ -4,4 +4,4 @@ emacs refactor tool for typescript-mode
 ** extract variablt to const 
 this is the first function for refactor, =tsr-extract-const=
 
-[[https://raw.githubusercontent.com/linchen2chris/ts-refactor.el/master/assets/extract-const.gif][extract-const]]
+![[https://raw.githubusercontent.com/linchen2chris/ts-refactor.el/master/assets/extract-const.gif][extract-const]]
